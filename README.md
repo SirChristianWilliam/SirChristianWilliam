@@ -42,3 +42,6 @@
    
  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sirchristianwilliam&" alt="sirchristianwilliam" /></p>
+
+<h3 align="center">Pinned below are some projects you definitely should check out! ⬇️</h3>
+
