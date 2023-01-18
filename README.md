@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chris!</h1>
 <h3 align="center">A passionate Full Stack Software Developer, born and raised in Minnesota</h3>
-<p> <img src="https://cdn.discordapp.com/attachments/1008571069797507102/1065065679134408755/MelatoninSurvivor_Cool_tech_background_image_for_programmingcod_c703ea83-f5c2-4b64-8ef2-5d4606f4c32d.png"/> </p>
+<p> <img src="https://cdn.discordapp.com/attachments/1008571069797507102/1065065679134408755/MelatoninSurvivor_Cool_tech_background_image_for_programmingcod_c703ea83-f5c2-4b64-8ef2-5d4606f4c32d.png" width="100%" height="500px"/> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirchristianwilliam&label=Profile%20views&color=0e75b6&style=flat" alt="sirchristianwilliam" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sirchristianwilliam" alt="sirchristianwilliam" /></a> </p>
 
