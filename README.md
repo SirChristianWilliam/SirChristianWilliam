@@ -37,4 +37,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sirchristianwilliam&show_icons=true&locale=en" alt="sirchristianwilliam" /></p>
 
+ <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SirChristianWilliam&theme=react&line_height=40&hide=css"/> </a>
+ 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sirchristianwilliam&" alt="sirchristianwilliam" /></p>
