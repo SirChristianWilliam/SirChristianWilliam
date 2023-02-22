@@ -22,10 +22,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/christian-maki/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/christian-maki/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/christian-maki/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/christian-maki/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20488822" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20488822" height="30" width="40" /></a>
-<a href="https://kaggle.com/sirchristianwilliam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sirchristianwilliam" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/watch?v=kxybtylzobw&list=plo9u1dci2cvydjr5vjefvztc7bvt02wk9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/watch?v=kxybtylzobw&list=plo9u1dci2cvydjr5vjefvztc7bvt02wk9" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
