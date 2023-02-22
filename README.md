@@ -4,23 +4,21 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirchristianwilliam&label=Profile%20views&color=0e75b6&style=flat" alt="sirchristianwilliam" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sirchristianwilliam" alt="sirchristianwilliam" /></a> </p>
 
-- 🔭 I’m currently working on **applying to jobs and honing my skillset, as well as learning as much as I can about anything I can**
+- 🔭 I’m currently working on: **applying to jobs and honing my skillset, as well as learning as much as I can about anything I can**
 
-- 🌱 I’m currently learning **data structure and algorithms, honing my current knowledge in Javascript, React & Node, and taking a deeper dive into database manipulation as well as navigating the intricacies of AWS and Heroku**
+- 🌱 I’m currently learning: **data structure and algorithms, honing my current knowledge in Javascript, React & Node, and taking a deeper dive into database manipulation as well as navigating the intricacies of AWS and Heroku**
 
-- 👯 I’m looking to collaborate on **learning Java- let's hold each other accountable and learn together!**
+- 👯 I’m looking to collaborate on: **learning Java- let's hold each other accountable and learn together!**
 
-- 🤝 I’m looking for help with [advice on my project "Missing Link"](https://missinglinksolo.herokuapp.com/#/home)
+- 👨‍💻 Many of my projects are available at: [https://sirchristianwilliam.github.io](https://sirchristianwilliam.github.io/#/)
 
-- 👨‍💻 Many of my projects are available at [https://sirchristianwilliam.github.io/Portfolio/Server/public/](https://sirchristianwilliam.github.io/Portfolio/Server/public/)
+- 💬 Ask me about: **Javascript, React, Node.js, PostgreSQL, jQuery, AWS S3 & Multer, Redux, HTML, CSS,Postman, Fuse.js, Rock Climbing, Exercising, ChatGPT, Midjourney...or, pretty much anything related to technology and software!**
 
-- 💬 Ask me about **Javascript, React, Node.js, PostgreSQL, jQuery, AWS S3 & Multer, Redux, HTML, CSS,Postman, Fuse.js, Rock Climbing, Exercising, ChatGPT, and Midjourney...or, pretty much anything related to technology and software!**
-
-- 📫 How to reach me **chrismaki123@gmail.com**
+- 📫 How to reach me: **chrismaki123@gmail.com**
 
 <!-- - 📄 Know about my experiences [chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://sirchristianwilliam.github.io/Portfolio/Server/public/images/Christian%20Maki%20Resume.pdf](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://sirchristianwilliam.github.io/Portfolio/Server/public/images/Christian%20Maki%20Resume.pdf) -->
 
-- ⚡ Fun fact **I'm very creative, and have experience creating music, editing videos and images, creating games, and filming really bad "movies"**
+- ⚡ Fun fact: **I'm very creative, and have experience creating music, editing videos and images, creating games, and filming really bad "movies"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
