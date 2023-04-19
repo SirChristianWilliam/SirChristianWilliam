@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirchristianwilliam&label=Profile%20views&color=0e75b6&style=flat" alt="sirchristianwilliam" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sirchristianwilliam" alt="sirchristianwilliam" /></a> </p>
 
-- 🔭 I’m currently working on: **Honing my skillset, and developing a real-estate portfolio website for a client**
+- 🔭 I’m currently working on: ** Developing a real-estate portfolio website for a client **
 
-- 🌱 I’m currently learning: **data structure and algorithms, hammering in my current knowledge in Javascript, React & Node, and taking a deeper dive into database manipulation as well as navigating the intricacies of AWS and Heroku**
+- 🌱 I’m currently learning: **Data structures and Algorithms, Next.js, ecommerce, Shopify platform, Electron, & PHP ( no specific order! ) **
 
 - 👯 I’m looking to collaborate on: **If you'd want to pair program, let's build something together 😸**
 
