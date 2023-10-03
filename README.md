@@ -8,7 +8,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirchristianwilliam&label=Profile%20views&color=0e75b6&style=flat" alt="sirchristianwilliam" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sirchristianwilliam" alt="sirchristianwilliam" /></a> </p>
 
-- 🌎 I am now officially a certified AWS Cloud Practitioner! <a href="https://www.credly.com/badges/bec7e15d-5f56-42d6-9c80-fd459c72fb61/linked_in?t=rut9hm" target="_blank" rel="noreferrer">Proof of certificate</a>
+- 🌎 I am now officially a certified AWS Cloud Practitioner! ![AWS practitioner](https://github.com/SirChristianWilliam/SirChristianWilliam/assets/100000473/cdeeeddb-96db-48cd-84e5-04cdb552a036)
+<a href="https://www.credly.com/badges/bec7e15d-5f56-42d6-9c80-fd459c72fb61/linked_in?t=rut9hm" target="_blank" rel="noreferrer">Proof of certificate</a>
 
 <!-- Begin: HubSpot Academy - HubSpot CMS For Marketers Badge -->
 <div class='academy-badge'>
