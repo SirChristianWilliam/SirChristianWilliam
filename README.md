@@ -23,6 +23,7 @@ I've also earned the HubSpot CMS For Marketers badge!
     <img src='https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/a9e90f55e6df4912a89ab95f60fc03a4.png' alt='HubSpot CMS For Marketers' width='300' height='200'>
   </a>
 </div>
+
 - 🔭 I’m currently working on: ** Developing store portals and ecommerce online stores within Shopify Plus, Hubspot, and other platforms **
 
 - 🌱 I’m currently learning: **Data structures and Algorithms, E-commerce, Shopify Plus, Electron, & HubSpot + marketing **
