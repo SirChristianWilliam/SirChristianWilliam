@@ -8,19 +8,21 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirchristianwilliam&label=Profile%20views&color=0e75b6&style=flat" alt="sirchristianwilliam" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sirchristianwilliam" alt="sirchristianwilliam" /></a> </p>
 
-- 🌎 I am now officially a certified AWS Cloud Practitioner!
-  <div style="width:300; height:300">![AWS practitioner](https://github.com/SirChristianWilliam/SirChristianWilliam/assets/100000473/cdeeeddb-96db-48cd-84e5-04cdb552a036)</div> 
-<br>
-<a href="https://www.credly.com/badges/bec7e15d-5f56-42d6-9c80-fd459c72fb61/linked_in?t=rut9hm" target="_blank" rel="noreferrer">Proof of certificate</a>
+### AWS Cloud Practitioner
 
-<!-- Begin: HubSpot Academy - HubSpot CMS For Marketers Badge -->
+I am thrilled to announce that I am now officially a certified AWS Cloud Practitioner! 🎉
+
+<img style="text-align:center" src="https://github.com/SirChristianWilliam/SirChristianWilliam/assets/100000473/cdeeeddb-96db-48cd-84e5-04cdb552a036" alt="AWS Cloud Practitioner" width="200" height="200">
+
+[Proof of certificate](https://www.credly.com/badges/bec7e15d-5f56-42d6-9c80-fd459c72fb61/linked_in?t=rut9hm)
+
+### HubSpot CMS For Marketers
+I've also earned the HubSpot CMS For Marketers badge!
 <div class='academy-badge'>
-<a href='https://app.hubspot.com/academy/achievements/98xjgy57/en/1/chris-maki/hubspot-cms-for-marketers' title='HubSpot CMS For Marketers'>
-<img src='https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/a9e90f55e6df4912a89ab95f60fc03a4.png' />
-</a>
+  <a href='https://app.hubspot.com/academy/achievements/98xjgy57/en/1/chris-maki/hubspot-cms-for-marketers' title='HubSpot CMS For Marketers'>
+    <img src='https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/a9e90f55e6df4912a89ab95f60fc03a4.png' alt='HubSpot CMS For Marketers' width='300' height='200'>
+  </a>
 </div>
-<!-- End: HubSpot Academy - HubSpot CMS For Marketers Badge -->
-
 - 🔭 I’m currently working on: ** Developing a real-estate portfolio website for a client **
 
 - 🌱 I’m currently learning: **Data structures and Algorithms, Next.js, ecommerce, Shopify platform, Electron, & PHP ( no specific order! ) **
