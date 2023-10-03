@@ -10,6 +10,14 @@
 
 - 🌎 I am now officially a certified AWS Cloud Practitioner! <a href="https://www.credly.com/badges/bec7e15d-5f56-42d6-9c80-fd459c72fb61/linked_in?t=rut9hm" target="_blank" rel="noreferrer">Proof of certificate</a>
 
+<!-- Begin: HubSpot Academy - HubSpot CMS For Marketers Badge -->
+<div class='academy-badge'>
+<a href='https://app.hubspot.com/academy/achievements/98xjgy57/en/1/chris-maki/hubspot-cms-for-marketers' title='HubSpot CMS For Marketers'>
+<img src='https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/a9e90f55e6df4912a89ab95f60fc03a4.png' />
+</a>
+</div>
+<!-- End: HubSpot Academy - HubSpot CMS For Marketers Badge -->
+
 - 🔭 I’m currently working on: ** Developing a real-estate portfolio website for a client **
 
 - 🌱 I’m currently learning: **Data structures and Algorithms, Next.js, ecommerce, Shopify platform, Electron, & PHP ( no specific order! ) **
