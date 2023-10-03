@@ -23,15 +23,15 @@ I've also earned the HubSpot CMS For Marketers badge!
     <img src='https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/a9e90f55e6df4912a89ab95f60fc03a4.png' alt='HubSpot CMS For Marketers' width='300' height='200'>
   </a>
 </div>
-- 🔭 I’m currently working on: ** Developing a real-estate portfolio website for a client **
+- 🔭 I’m currently working on: ** Developing store portals and ecommerce online stores within Shopify Plus, Hubspot, and other platforms **
 
-- 🌱 I’m currently learning: **Data structures and Algorithms, Next.js, ecommerce, Shopify platform, Electron, & PHP ( no specific order! ) **
+- 🌱 I’m currently learning: **Data structures and Algorithms, E-commerce, Shopify Plus, Electron, & HubSpot + marketing **
 
-- 👯 I’m looking to collaborate on: **If you'd want to pair program, let's build something together 😸**
+- 👯 Bonus: ** Learning the ins and outs of Google Search Console, Ads, Analytics, SEO, Accessibility, Merchant Center, Tracking, and more! 😸**
 
 - 👨‍💻 Many of my projects are available at: [https://sirchristianwilliam.github.io](https://sirchristianwilliam.github.io/#/)
 
-- 💬 Ask me about: **Javascript, React, Node.js, PostgreSQL, jQuery, AWS S3 & Multer, Redux, HTML, CSS,Postman, Fuse.js, Rock Climbing, Exercising, ChatGPT, Midjourney...or, pretty much anything related to technology and software!**
+- 💬 Ask me about: **Javascript, React, Node.js, PostgreSQL, jQuery, AWS S3 & Multer, Redux, HTML, CSS, Shopify, HubSpot, Marketing, Web Development, Postman, Fuse.js, Rock Climbing, Exercising, ChatGPT, Midjourney...or, pretty much anything related to technology and software!**
 
 - 📫 How to reach me: **chrismaki123@gmail.com**
 
