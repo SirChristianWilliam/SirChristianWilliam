@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chris!</h1>
 <h3 align="center">A passionate learner, Full Stack Software Developer, born and raised in Minnesota</h3>
-<h4 align="center"><a href="Christian Maki Resume.pdf">View Resume</a> </h4>
+<h4 align="center"><a href="Christian-Maki-FlowCV-Resume-20240226.pdf">View Resume</a> </h4>
 <h4 align="center"><a href="https://sirchristianwilliam.github.io/#/resume">View Interactive Resume</a> </h4>
 
 <h5 align="center"> If the boxes aren't green, I'm probably reading up on new tech </h5>
