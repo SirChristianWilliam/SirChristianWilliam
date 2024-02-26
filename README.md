@@ -4,7 +4,9 @@
 <h4 align="center"><a href="https://sirchristianwilliam.github.io/#/resume">View Interactive Resume</a> </h4>
 
 <h5 align="center"> If the boxes aren't green, I'm probably reading up on new tech </h5>
-<p> <img src="https://cdn.discordapp.com/attachments/1008571069797507102/1065065679134408755/MelatoninSurvivor_Cool_tech_background_image_for_programmingcod_c703ea83-f5c2-4b64-8ef2-5d4606f4c32d.png" width="100%" height="500px"/> </p>
+
+![melatoninsurvivor_Extremely_complicated_code_written_in_weird_m_49e30e73-5e5c-4a7d-b615-0a279b7a5cf9](https://github.com/SirChristianWilliam/SirChristianWilliam/assets/100000473/1a9cadff-58f5-42b8-b192-2bbc06d53ce3)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirchristianwilliam&label=Profile%20views&color=0e75b6&style=flat" alt="sirchristianwilliam" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sirchristianwilliam" alt="sirchristianwilliam" /></a> </p>
 
